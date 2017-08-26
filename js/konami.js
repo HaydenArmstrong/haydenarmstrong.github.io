@@ -38,7 +38,7 @@ document.addEventListener('keydown', function(e) {
 });
 
 function activateCheats() {
-  document.body.style.backgroundImage = "url('images/ramort.gif')";
+  document.body.style.backgroundImage = "url('ramort.gif')";
 
   alert("cheats activated");
 }
