@@ -38,8 +38,7 @@ document.addEventListener('keydown', function(e) {
 });
 
 function activateCheats() {
-  document.body.style.backgroundImage = "url('apprehensiveLeafyGyrfalcon-size_restricted.gif
-')";
+  document.body.style.backgroundImage = "url('easytoread.gif')";
 
   alert("cheats activated");
 }
