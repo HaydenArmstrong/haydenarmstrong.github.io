@@ -42,3 +42,5 @@ function activateCheats() {
 
   alert("cheats activated");
 }
+
+//there ya go folks
