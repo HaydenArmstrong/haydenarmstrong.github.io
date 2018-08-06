@@ -38,7 +38,8 @@ document.addEventListener('keydown', function(e) {
 });
 
 function activateCheats() {
-  document.body.style.backgroundImage = "url('ramort.gif')";
+  document.body.style.backgroundImage = "url('apprehensiveLeafyGyrfalcon-size_restricted.gif
+')";
 
   alert("cheats activated");
 }
