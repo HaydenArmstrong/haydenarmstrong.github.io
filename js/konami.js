@@ -24,5 +24,5 @@ function onKonamiCode(fn) {
 }
 onKonamiCode.requireEnterKey = false;
 onKonamiCode(function(){
-	window.location="/special.html";
+	window.location="special.html";
 });
